@@ -5,7 +5,7 @@
 - 🌱 I believe in continuous learning and self-improvement, always staying up-to-date with the latest technology trends. I enjoy exploring new tools and frameworks, and I apply them in my projects.
 
 - 👨‍💻 You can find all of my projects at 
- [https://github.com/deryaozturkk](https://github.com/deryaozturkk?tab=repositories). Feel free to explore them and provide any feedback or suggestions.
+ **[https://github.com/deryaozturkk](https://github.com/deryaozturkk?tab=repositories)**. Feel free to explore them and provide any feedback or suggestions.
 
 - 📫 You can reach me at **deryaozturk4988@gmail.com.** I would be happy to connect and discuss any interesting opportunities or collaborations.
 
