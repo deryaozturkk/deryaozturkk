@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Derya Öztürk</h1>
 
+- A passionate learner and software developer. 
 
-- 🌱 I’m currently learning **Python - C#**
-- 📚  I also love continuous learning and self-improvement. I follow technology trends, learn new skills and apply them in my projects.
-- 👨‍💻 All of my projects are available at [https://github.com/deryaozturkk?tab=repositories](https://github.com/deryaozturkk?tab=repositories)
+- 🌱 I believe in continuous learning and self-improvement, always staying up-to-date with the latest technology trends. I enjoy exploring new tools and frameworks, and I apply them in my projects.
 
-- 📫 How to reach me **deryaozturk4988@gmail.com**
+- 👨‍💻 You can find all of my projects at ![Connect with me on GitHub](https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github)
+
+[github-url]: [https://github.com/deryaozturkk](https://github.com/deryaozturkk?tab=repositories). Feel free to explore them and provide any feedback or suggestions.
+
+- 📫 You can reach me at **deryaozturk4988@gmail.com.** I would be happy to connect and discuss any interesting opportunities or collaborations.
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
