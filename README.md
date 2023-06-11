@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derya Öztürk</h1>
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
+
 
 - 🌱 I’m currently learning **Python - C#**
 
