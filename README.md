@@ -2,10 +2,11 @@
 
 
 - 🌱 I’m currently learning **Python - C#**
-
+- 📚  I also love continuous learning and self-improvement. I follow technology trends, learn new skills and apply them in my projects.
 - 👨‍💻 All of my projects are available at [https://github.com/deryaozturkk?tab=repositories](https://github.com/deryaozturkk?tab=repositories)
 
 - 📫 How to reach me **deryaozturk4988@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
